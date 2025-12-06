@@ -26,6 +26,11 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-900 text-white font-sans">
       <main className="container mx-auto px-4 py-8">
+        <section className="mb-20">
+          <h1 className="text-5xl font-bold mb-6 text-center">
+            Global Geometric Constraints Within The Diffusion Process to Break the Static Frame 
+          </h1>
+        </section>
         <section className="mb-12">
           <h1 className="text-4xl font-bold mb-6 text-center">
             Infinitely Looping Image
